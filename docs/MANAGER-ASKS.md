@@ -3,16 +3,21 @@ Drafted 2026-11-20. Slack DMs. Tone follows Morgan's framing: *"None of this is 
 on paper, and we're gonna fix it from here."* Tara is reactive and overwhelmed right now, and Karen
 is not ramped — both messages are written accordingly.
 
-Sign-off lands on the **Manager Sign-Off** tab of the inventory workbook.
+**How sign-off works:** line by line in **columns M–Q of the Reporting Tracker**. For each row a
+manager ticks *Judy has access* and *Morgan has access* once they have actually granted it on the
+thing linked in that row, plus *Row content confirmed*, their name, and a note if blocked.
+**Column R is ours** — Judy and Morgan re-run the access check afterwards and record what was
+actually found, so a tick that isn't true gets caught.
 
 ---
-## Tara Young — Bookkeeping
+## Tara Young — Bookkeeping (rows 2–14)
 Hey Tara — two small things on the reporting inventory, and neither is a build ask, promise.
 
-I added a **Manager Sign-Off** tab to the workbook. When you get a minute, tick the three boxes for
-Bookkeeping: rows confirmed, Judy has access, Morgan has access.
+I added access sign-off columns to the Reporting Tracker (M–Q). Go down your Bookkeeping rows and
+tick "Judy has access" and "Morgan has access" for each one as you grant it, plus "Row content
+confirmed" if the row itself looks right.
 
-Two specifics I need from you:
+Two specifics I need:
 1. Your rows all point at the Vercel app. Can you confirm Morgan and I can both open the **PM+**
    pages? Several are gated and I don't want to assume.
 2. Quarterly and Historical QA both still read "feed pending" for the current month. What are the
@@ -21,7 +26,7 @@ Two specifics I need from you:
 That's it. Still no building — this is just so Morgan can scope properly.
 
 ---
-## Shelby Schimetz — Tax & Engagement (+ Payroll QA)
+## Shelby Schimetz — Tax & Engagement (rows 15–32) + Payroll QA
 Hi Shelby — Karen passed the Tax & Engagement inventory rows to you while she ramps, so flagging
 this your way.
 
@@ -31,11 +36,12 @@ the tax app "Active and good", but we can't verify that until we can see the she
 Could you add us both as writers?
 judy.gingerich@housecallpro.com / morgan.knox@housecallpro.com
 
-Then the **Manager Sign-Off** tab in the workbook — three boxes for Tax & Engagement.
+Then the sign-off columns (M–Q) on the Reporting Tracker — tick down your Tax & Engagement rows as
+you grant access on each.
 
 Separate and lower priority: you personally own both the Payroll QA Spiff Tracker and Tax Manager
 Reports, in your own Drive. We're moving this reporting onto the INHA shared drive so nothing
-depends on one person's account. There's a line for it at the bottom of the sign-off tab.
+depends on one person's account. Note it in the blocker column when yours has moved.
 
 ---
 ## Karen Herring — Pro Requests + MBO
@@ -52,28 +58,28 @@ Also a heads up that's genuinely good news: the Pro Requests sheets are **live**
 today. We'd written those metrics off as lost in the Asana move, and they weren't. You've been
 keeping them going by hand this whole time.
 
-Sign-off boxes are on the **Manager Sign-Off** tab when you get there.
+Sign-off is line by line in columns M–Q of the Reporting Tracker when you get there.
 
 ---
-## Noah Dare — Payroll & Onboarding
+## Noah Dare — Payroll & Onboarding (rows 33–43)
 Hi Noah — payroll came through cleanest of the three, so this is mostly a formality.
 
-Access is all clear, nothing blocked. Just need you to tick the three boxes on the new **Manager
-Sign-Off** tab for Payroll & Onboarding.
+Access is all clear, nothing blocked. Just tick down your rows in the new sign-off columns (M–Q) on
+the Reporting Tracker.
 
 One open question: the **Payroll ACE Model** is owned by Amparo DeLeon rather than you, even though
 your team runs off it. Should that ownership move? We're pulling this reporting onto the shared
 drive so it doesn't sit in anyone's personal Drive, and that one stood out.
 
 ---
-## Ken Hogue — Retention
+## Ken Hogue — Retention (rows 44–45)
 Hey Ken — small one. Your two Retention rows point at **DNU: Add-Ons Operating Models V2**. It's
 marked DNU but still linked, so I want to get it right: is it genuinely retired, or still in use?
 
 Also noticed you're commenter-only on the INHA shared drive — if you need more than that for any of
 this, say so and I'll sort it.
 
-Three tick boxes on the **Manager Sign-Off** tab when you've confirmed your rows.
+Two rows to tick in columns M–Q of the Reporting Tracker once you've confirmed them.
 
 ---
 ## Roberto Romero — Add-Ons Operating Models V2

@@ -129,3 +129,20 @@ commenter only** on that drive, and he is the named respondent for the Retention
   Spiff Tracker) and row 46 (MBO Data Source).
 - New **"Access & Gaps"** tab added at index 2, carrying the action list, the alive-but-disconnected
   finding, the recovered links, the ownership risk and the unmapped feeders.
+
+## Correction (2026-11-20)
+An earlier pass mis-mapped the tracker's row numbering: the grid has **50 data rows (2–51)**, not 49,
+and Bookkeeping runs to row 14, not 13. Several Link cells were written one row early as a result,
+overwriting the Salesforce onboarding dashboard on row 33 and the Intercom support report on row 35.
+Both were restored from the original read, and H33:H47 was rewritten against a verified A30:C51
+row map. Nothing outside rows 33–47 was touched.
+
+## Sign-off mechanism (final)
+Per-row, in the Reporting Tracker itself — not a separate tab:
+- **M** Judy has access (checkbox) · **N** Morgan has access (checkbox) · **O** Row content confirmed
+  (checkbox) · **P** Confirmed by · **Q** Manager note / blocker
+- **R** Re-check result — filled by Judy and Morgan after re-running the access audit, so a tick that
+  isn't true gets caught.
+- Rows with no link (17, 28, 41, 46, 48–51) are pre-marked n/a.
+The separate "Manager Sign-Off" tab built earlier was deleted; two sign-off surfaces would have been
+the same disease this project exists to cure.
