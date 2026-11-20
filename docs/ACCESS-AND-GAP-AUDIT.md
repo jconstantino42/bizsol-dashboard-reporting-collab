@@ -100,3 +100,32 @@ For a consolidation, the feeders are the thing that matters. The surfaces get re
 2. Resolve the two unidentified Apps Script dashboard URLs and find their bound sheets.
 3. Open the MBO Data Source and check it against the current reports — Judy flagged this as not yet
    done, and it may answer several tracker rows outright.
+
+---
+
+# VERIFIED ACCESS MATRIX (per-file permission lists, 2026-11-20)
+
+| Asset | Judy | Morgan | Owner / where |
+|---|---|---|---|
+| **Tax Manager Reports** (feeder behind tax app) | 🔴 none (domain reader) | 🔴 none (domain reader) | Shelby Schimetz, personal Drive |
+| **DNU: Add-Ons Operating Models V2** | 🔴 comment only | 🔴 comment only | Roberto Romero, personal Drive |
+| **Pro Requests** family (8 sheets) | ✅ writer | 🔴 none (domain reader) | Karen Herring |
+| **MBO Data Source** | ✅ owner | 🔴 none (domain reader) | Judy |
+| Tax sheet `1VGnt4x...` (Notes, row 22) | 🔴 link dead | — | unknown |
+| Advisory Gauges / Detach Tracker / BK Correction Trackers | ✅ organizer | ✅ organizer | INHA shared drive `0ALZE-nI56aZSUk9PVA` |
+| Payroll ACE Model | ✅ writer | ✅ writer | Amparo DeLeon |
+| Payroll QA Spiff Tracker | ✅ writer | ✅ writer | Shelby Schimetz |
+| [Source] INHA ACE Outline | ✅ writer | ✅ owner | Morgan Knox |
+| Maintenance Bookkeeping Operations | ✅ owner | ✅ writer | Judy |
+| Cleaners Key Performance Metrics | ✅ writer | ✅ writer | Tara Young |
+
+**Also noted on the INHA shared drive:** `n8n-local-development@inha-n8n.iam.gserviceaccount.com`
+holds writer and `n8n_business_process_automation@housecallpro.com` holds reader — confirming the
+N8N pipeline writes into this drive, which matters given the sandbox migration. **Ken Hogue is
+commenter only** on that drive, and he is the named respondent for the Retention rows.
+
+## Written back to the workbook (2026-11-20)
+- Reporting Tracker column H filled for rows 33, 35–38, 41, 42 (Payroll ACE Model, Payroll QA
+  Spiff Tracker) and row 46 (MBO Data Source).
+- New **"Access & Gaps"** tab added at index 2, carrying the action list, the alive-but-disconnected
+  finding, the recovered links, the ownership risk and the unmapped feeders.
