@@ -146,3 +146,36 @@ Per-row, in the Reporting Tracker itself — not a separate tab:
 - Rows with no link (17, 28, 41, 46, 48–51) are pre-marked n/a.
 The separate "Manager Sign-Off" tab built earlier was deleted; two sign-off surfaces would have been
 the same disease this project exists to cure.
+
+---
+
+# ROUND 1 RESULTS — 2026-11-20 afternoon
+
+## Resolved
+| Item | Was | Now |
+|---|---|---|
+| **Tax Manager Reports** | Neither Judy nor Morgan could open it — top gap | ✅ Both writer (Shelby) |
+| **Tax Manager Database** (`1VGnt4x...`, the "dead" link in row 23 Notes) | Assumed deleted | ✅ Never dead — we simply had no access. Both writer |
+| **DNU: Add-Ons Operating Models V2** | Comment-only, needed Roberto | ✅ Resolved without him. Ken had dropped in the **old** op model; the current ones are in Omni and up to date. **Do not send Roberto the ask.** |
+| **Payroll rows 33–43** | Unverified | ✅ Noah completed M–Q. Google assets verified independently; Intercom/Salesforce on his word |
+
+## New findings from Shelby's reply
+1. **The Tax Manager is four components, not one** — Apps Script project, Database sheet, Report
+   Export sheet, and a GitHub repo. The tracker had it as a single app.
+2. **The GitHub repo is on a personal account** — `github.com/shelbyschimetz-rgb/HCP-Tax-Manager-Database`,
+   outside the HCP org. Same key-person risk as the personal Drives but sharper: it is source code,
+   and it leaves with the account. Needs moving into an org repo.
+3. **A feeder nobody had named, and it is not Shelby's** — the Tax ACE / Comm Dashboard reads from a
+   Salesforce source doc (`1mr-cg6yLlfLdls6ebbaFa2dMsz2eIqFftdN486kYkUQ`) owned by **Armando
+   Monteza**. Judy and Morgan have **read only**. Shelby's "you have access to everything I own" is
+   accurate — this one is not hers.
+4. **First end-to-end feeder chain anyone has described**: Salesforce → Armando's source doc → Tax
+   ACE / Comm Dashboard, with Tax Manager Reports also feeding in.
+5. **Still open — the zero-data question.** Morgan's copy of the Tax Team ACE Model showed no data.
+   Shelby sent links but did not say whether a newer populated version exists. Until that is
+   answered, the tax rows marked "Active and good" stay unverified.
+
+## Outstanding
+Tara (Bookkeeping, 12 rows) · Karen (Pro Requests access for Morgan, MBO triggers) · Ken
+(shared-drive access, on return) · writer on Armando's SF source doc · the zero-data answer from
+Shelby · moving the GitHub repo into the org.
