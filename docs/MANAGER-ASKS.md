@@ -50,12 +50,12 @@ Morgan's going to grab some time with you next week too.
 > it lands a little bit better than async" · "I'll grab some time with her next week."
 
 ---
-## SHELBY SCHIMETZ — Tax & Engagement (rows 15–32)
+## SHELBY SCHIMETZ — Tax & Engagement (rows 15–32) + Retention (rows 44–45, Ken is OOO)
 
 Hi Shelby — Morgan asked me to come to you directly on this, since Karen isn't ramped on the tax
-reporting yet.
+reporting yet. Ken's out too, so I've added his two Retention rows at the bottom.
 
-Two things, both needed by end of day:
+Three things, all needed by end of day:
 
 **1. Edit access for both me and Morgan** on everything in the Tax & Engagement rows — and
 specifically the **underlying sheets where the data actually lives**, not just the dashboards. You
@@ -66,6 +66,12 @@ all. judy.gingerich@housecallpro.com / morgan.knox@housecallpro.com
 shows zero data across it. Is there a newer one built on the new data that she hasn't been shared
 on? If so she needs it. If not, that status needs to change.
 
+**3. Retention, rows 44–45, covering for Ken.** Both point at **DNU: Add-Ons Operating Models V2**.
+It's marked DNU but still linked — do you know if it's genuinely retired or still in use? If it's
+dead, leave it in the tracker and mark it broken rather than removing it; Morgan wants the old views
+captured so we've got a record of what we used to measure. If you don't know, say so and I'll hold
+it for Ken.
+
 Then columns M–Q on the Reporting Tracker — tick per row as you confirm access on each.
 
 Morgan can't finish the design outline for each product until she has access to everything, so this
@@ -74,7 +80,8 @@ is what's holding the whole thing up.
 > Traces to: "the tax team ACE model is not active and good... it's got zero data in all of it" ·
 > "the one I have is stale, I need to get share access to it" · "Shelby is the one who's accountable
 > for these right now... Karen is not ramped on this yet" · "make sure that we have edit access to
-> the underlying sheets where the data is" · "you've got to do this by end of day today."
+> the underlying sheets where the data is" · "you've got to do this by end of day today" · retired
+> views: "we could tell people to drop that in there too — here is the old view, but it's broken."
 
 ---
 ## KAREN HERRING — Pro Requests + MBO
@@ -109,16 +116,14 @@ One question: the **Payroll ACE Model** is owned by Amparo DeLeon rather than yo
 team runs off it. Should that move?
 
 ---
-## KEN HOGUE — Retention (rows 44–45)
+## KEN HOGUE — Retention (rows 44–45) — PARKED, he is OOO
 
-Hey Ken — small one. Your two Retention rows point at **DNU: Add-Ons Operating Models V2**. Marked
-DNU but still linked — genuinely retired, or still in use? If it's dead, leave it in and mark it
-broken. Morgan asked for the old views to be captured rather than dropped so we've got a record of
-what we used to measure.
+Ken is out of office. His two Retention rows have been folded into Shelby's message above.
 
-Also you're commenter-only on the INHA shared drive — say the word if you need more.
-
-Two rows to tick in columns M–Q, end of day if you can.
+Still owed to Ken when he is back, and not urgent:
+- He is **commenter-only** on the INHA shared drive. That is his own access, so it cannot be granted
+  via Shelby — ask him on return whether he needs more than that.
+- Confirmation of rows 44–45 and the M–Q ticks, if Shelby could not answer the DNU question.
 
 ---
 ## ROBERTO ROMERO — Add-Ons Operating Models V2
