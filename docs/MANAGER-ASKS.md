@@ -136,3 +136,46 @@ strike it and stop pointing people at it?
 judy.gingerich@housecallpro.com / morgan.knox@housecallpro.com
 
 No urgency beyond this week. Thanks.
+
+---
+# ROUND 2 — follow-up to Shelby (after her 2:13pm reply)
+
+Context gathered before sending: both sheets were opened and are clearly live.
+- **Tax Manager DB** — Tasks 10,531 rows · TasksArchive 8,733 · AuditLog 404,292 · plus Projects,
+  PeerReviews, ProjectStageHistory, OutstandingItems, TimeEntries, Notes, ChurnLog, Identity,
+  SfdcIntakeQueue. A real application database.
+- **Tax ACE SF Reports Refresh** (Armando's) — Emails 7,332 · Calls 1,237 · Text 1,237 ·
+  Meetings Held 2,738 · Tax OB Cases 1,236. This is exactly the Salesforce rep-activity data
+  Morgan asked for on the engagement deliverable.
+
+So the zero-data problem is almost certainly Morgan's stale copy, not a broken build. She said as
+much herself — "the one I have is stale." The follow-up states that rather than asking it.
+
+---
+Hey Shelby — thank you, that was quick and it all landed. Confirmed Morgan and I both have writer
+on the Tax Manager Database and the Report Export.
+
+Four follow-ups:
+
+**1. The zero-data thing — I think it's resolved, but want to confirm.** I opened the Tax Manager
+DB and it's very clearly live: 10k+ task rows, a full audit log, projects, peer reviews, stage
+history. Same with the Tax ACE SF Reports Refresh — 7k email rows, plus calls, texts and meetings
+held. So the data is absolutely there. Looks like Morgan has just been working off a stale copy of
+the ACE model. Can you confirm the dashboard link you sent is the current one and that it renders
+for someone who isn't you? If there's a newer build she was never shared on, that's the one she
+needs.
+
+**2. The GitHub repo is on your personal account** (shelbyschimetz-rgb). Can we get it moved into
+the HCP org? It's the only part of this that's source code, and right now it lives on a personal
+account rather than with the company. Not urgent today, but it should move.
+
+**3. The Tax ACE source doc for SF data is Armando's, not yours** — so that one's not on you, I'll
+go to him directly. Do you know whether we'd need write on it, or is read enough for what it does?
+
+**4. Who answers the rest of the Tax & Engagement rows?** You're right that only those two are
+yours. But there are still open rows for Bookkeeping Advisors and Engagement Specialists — things
+like whether we can separate a specialist's activity from the advisor they're assisting. Karen
+isn't ramped on those yet. Are you the right person for now, or should I hold them for her?
+
+Also — thank you for sorting Ken's retention rows. Saved me chasing someone outside the team
+entirely.
