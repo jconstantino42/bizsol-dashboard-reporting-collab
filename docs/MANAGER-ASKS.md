@@ -1,86 +1,109 @@
 # Asks out to the teams — reporting inventory
 Drafted 2026-11-20. Slack DMs, Judy's voice. Short.
 
-**Source:** Morgan's original brief only (the 14:01 transcript). Nothing from the private Judy/Morgan
-conversations — those contain performance and personnel context that must not travel into a
-manager DM.
+**Source:** Morgan's brief (14:01) and the Friday 12:05 sync, where she scripted the Tara and Shelby
+asks almost verbatim. Nothing drawn from the parts of those calls covering performance or personnel.
 
-**Sign-off:** columns M–Q of the Reporting Tracker, line by line. Column R is Judy + Morgan's
-re-check.
+**The deadline is end of day today**, and the reason to give people: *Morgan cannot finish the
+design and outline she owes for each product until she has access to everything.* That is what the
+whole thing is waiting on.
+
+**Sign-off:** columns M–Q of the Reporting Tracker, line by line. Morgan's words — "make it black
+and white, make sure they firmly said yes I did it for both, and then you and I can go check on it."
 
 ---
 ## TARA YOUNG — Bookkeeping (rows 2–14)
+> Morgan suggested doing this live rather than async so it lands better. Send the message, then grab
+> a few minutes. She's also going to grab time with Tara next week herself.
 
-Hey Tara —
+Hey Tara — can I grab a few minutes with you today? Putting this here too so you've got it in
+writing.
 
-Added access columns to the Reporting Tracker (M–Q). Go down your Bookkeeping rows and tick "Judy
-has access" and "Morgan has access" per row as you confirm each. Per row, not one blanket tick —
-the links differ. Column R is mine, I re-check after.
+This is from Morgan directly: **stop any further build on the reporting.** I know you've got things
+mid-build and I know it feels urgent. Pause all of it.
 
-Most of your rows point at the Vercel app and some pages are gated — can you confirm Morgan and I
-can both open the PM+ ones?
+Not because you did anything wrong, and not because anyone thinks you're not capable. You've gotten
+it to a point where it needs to be handed off for this phase. This has to be built at a higher level
+and consolidated across multiple systems, and that can't be done well with three sets of builder
+hands in it. Too many cooks — that's the whole reason. You're also possibly redoing work that won't
+end up being used.
 
-Two things Morgan asked for specifically on accounting:
+What Morgan wants instead:
+- An update on where each of your builds currently stands
+- Anything partially built — back it up, write a quick handoff doc, pass it to us
+- Then stop
 
-**AI QA.** She wants to dig back into this with you — she said she lost track of how you're pulling
-the QA results and working through them. Just tell me the actual current process and where the
-output lands. Doesn't need to be tidy.
+**Access, needed by end of day.** I added columns to the Reporting Tracker. Go down your Bookkeeping
+rows and confirm Morgan and I both have edit access on what's linked in each row — per row, not one
+blanket tick. Morgan can't finish the design outline she owes me for each product until she has
+access to all of it, so this is what's actually holding her up.
 
-**The four she named:** QA scores, assignment caseloads, capacity, and delivery timelines by rep and
-by org. Where does each of those live right now? Where there's no view, she wants to know the source
-of truth — is it the Vercel app, the Apps Scripts, Salesforce?
+Morgan's going to grab some time with you next week too.
 
-And if something used to exist and is broken or dark now, drop it in anyway and mark it broken. She
-asked for those too.
-
-This one's urgent — she wants feedback from everyone fast.
+> Traces to: "open a thread with her — you keep putting that you're in mid-build, stop, because
+> you're possibly redoing work that's not going to be used anyway" · "per Morgan, give us an update
+> on where these are, stop any further efforts on them, because we're rebuilding something in a new
+> way" · "if she has things partially built, she can back up, she can do handoff documents, and hand
+> it over to us, but I need her to stop" · "this is not being taken away from you because you're
+> incapable... you didn't do anything wrong" · "it's because having too many cooks in the kitchen
+> makes this harder, so you got to just pause" · "if you need to grab a few minutes live with her so
+> it lands a little bit better than async" · "I'll grab some time with her next week."
 
 ---
 ## SHELBY SCHIMETZ — Tax & Engagement (rows 15–32)
 
-Hi Shelby — Karen passed the Tax & Engagement rows to you while she ramps.
+Hi Shelby — Morgan asked me to come to you directly on this, since Karen isn't ramped on the tax
+reporting yet.
 
-One blocker first: **Tax Manager Reports** is owned by you and neither Morgan nor I can open it. The
-tracker marks the tax app "Active and good" but we can't verify that until we see what feeds it. Can
-you add us both as writers? judy.gingerich@housecallpro.com / morgan.knox@housecallpro.com
+Two things, both needed by end of day:
 
-Then columns M–Q on the Reporting Tracker — tick per row as you grant access.
+**1. Edit access for both me and Morgan** on everything in the Tax & Engagement rows — and
+specifically the **underlying sheets where the data actually lives**, not just the dashboards. You
+shared the new ACE model with me but not Morgan. And neither of us can open Tax Manager Reports at
+all. judy.gingerich@housecallpro.com / morgan.knox@housecallpro.com
 
-How Morgan framed the tax side, so you know what she's after:
-- **Tax advisors have two deliverables**, and she wants a view for each. Engagement — rep activity
-  from Salesforce, demo records and calls. And tax return projects — a pipeline view tracking those
-  through to delivery.
-- **Bookkeeping advisors** are engagement only right now.
-- **Engagement specialists** are a new role and do both — documents and information they're
-  collecting, plus engagement activity. She wants to know how we're tracking them at all.
+**2. The Tax Team ACE Model** is marked "Active and good" in the tracker, but the version Morgan has
+shows zero data across it. Is there a newer one built on the new data that she hasn't been shared
+on? If so she needs it. If not, that status needs to change.
 
-Where there's no view, she wants the source of truth — Salesforce, the tax app, the Vercel app.
+Then columns M–Q on the Reporting Tracker — tick per row as you confirm access on each.
+
+Morgan can't finish the design outline for each product until she has access to everything, so this
+is what's holding the whole thing up.
+
+> Traces to: "the tax team ACE model is not active and good... it's got zero data in all of it" ·
+> "the one I have is stale, I need to get share access to it" · "Shelby is the one who's accountable
+> for these right now... Karen is not ramped on this yet" · "make sure that we have edit access to
+> the underlying sheets where the data is" · "you've got to do this by end of day today."
 
 ---
 ## KAREN HERRING — Pro Requests + MBO
 
 Hey Karen — three quick ones, none need you to know the reporting yet.
 
-1. The **Pro Requests** sheets (the 8 per-pod ones) — I have writer, Morgan doesn't. Add her?
+1. The **Pro Requests** sheets (the 8 per-pod ones) — I have access, Morgan doesn't. Add her?
    morgan.knox@housecallpro.com
 2. Tracker row 22, the link in the Notes column doesn't resolve for me. Moved or deleted?
 3. **MBO** — Morgan's question is literally "does that even function anymore, and where is it?" You
-   own it now. Also its email triggers are still firing and I can't switch them off from my side —
+   own it now. Its email triggers are also still firing and I can't switch them off from my side —
    want me to show you where they are?
 
-Good news in this: the Pro Requests sheets are live, they were edited this week. We'd written those
-metrics off as lost in the Asana move and they weren't.
+Good news in this: the Pro Requests sheets are live, edited this week. We'd written those metrics
+off as lost in the Asana move and they weren't.
 
-Sign-off is line by line in columns M–Q when you get there.
+Sign-off is line by line in columns M–Q. Morgan's blocked on access before she can finish the design
+outline, so end of day today if you can.
 
 ---
 ## NOAH DARE — Payroll & Onboarding (rows 33–43)
 
 Hi Noah — payroll's in the tracker because Morgan wanted it alongside accounting and tax for one
-consistent picture, not because anything's wrong on your side. She said payroll's reporting has been
-the stable one.
+consistent picture, not because anything's wrong on your side. She's said payroll's reporting has
+been the stable one.
 
-Access is all clear. Just tick down your rows in columns M–Q on the Reporting Tracker.
+Access looks clear from my side — just need you to confirm it per row in columns M–Q on the
+Reporting Tracker, and that Morgan has edit too, not just me. End of day if you can; she's blocked
+on access before she can finish the design outline for each product.
 
 One question: the **Payroll ACE Model** is owned by Amparo DeLeon rather than you, even though your
 team runs off it. Should that move?
@@ -89,13 +112,13 @@ team runs off it. Should that move?
 ## KEN HOGUE — Retention (rows 44–45)
 
 Hey Ken — small one. Your two Retention rows point at **DNU: Add-Ons Operating Models V2**. Marked
-DNU but still linked — genuinely retired, or still in use? If it's dead, still leave it in and mark
-it broken. Morgan asked for the old views to be captured rather than dropped, so we've got a record
-of what we used to measure.
+DNU but still linked — genuinely retired, or still in use? If it's dead, leave it in and mark it
+broken. Morgan asked for the old views to be captured rather than dropped so we've got a record of
+what we used to measure.
 
 Also you're commenter-only on the INHA shared drive — say the word if you need more.
 
-Two rows to tick in columns M–Q.
+Two rows to tick in columns M–Q, end of day if you can.
 
 ---
 ## ROBERTO ROMERO — Add-Ons Operating Models V2
