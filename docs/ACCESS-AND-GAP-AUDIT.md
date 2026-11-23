@@ -179,3 +179,40 @@ the same disease this project exists to cure.
 Tara (Bookkeeping, 12 rows) · Karen (Pro Requests access for Morgan, MBO triggers) · Ken
 (shared-drive access, on return) · writer on Armando's SF source doc · the zero-data answer from
 Shelby · moving the GitHub repo into the org.
+
+---
+
+# ROUND 2 — 2026-11-23
+
+## From Shelby
+- **Zero-data question CLOSED.** The link she sent is the current Tax ACE model and renders for
+  Morgan. Morgan's empty view was a stale copy, as she suspected.
+- **GitHub repo** — she is moving it into the HCP org. In progress.
+- **Armando's source doc CLOSED, with a correction.** Read is enough; it is raw data only. But it
+  now refreshes from **Snowflake, not Salesforce** — Armando rebuilt it that way after the
+  Salesforce connector migration. The feeder chain is therefore
+  **Snowflake → Armando's sheet → Tax ACE / Comm Dashboard**, with Tax Manager Reports feeding in.
+  The earlier note naming Salesforce was wrong.
+- **Engagement rows stay unowned.** Shelby has no more visibility into Engagement than Karen, and
+  offered to help given a specific example. Tax is fully handed over. Rows 15–21 sit with Karen.
+
+## From Karen
+- **Weekly Manager Checkdown** — both per-manager workbooks still exist; daily checkdown compliance,
+  tech tickets, maintenance launch. Need updating before use. Support tickets were discussed as an
+  addition but are no longer wanted; maintenance launch no longer needed. Recorded on the Metrics tab.
+- **Maintenance Bookkeeping Operations** — mostly covered by newer tools, workbook still live.
+  Recorded against all 12 of its Metrics-tab rows.
+- **Pro Requests** — now shared with Morgan as well as Judy.
+- **"Pros - Need TL Assignment"** (Karen asked whether to include it) — **yes.** It is the live
+  version of a metric listed as gone: *"orgs with an unrecognized team lead or blank bookkeeper."*
+  Edited 23 Nov. Now linked on the Metrics tab.
+
+## Answering Judy's two questions
+- **MBO** — yes, added. The MBO Data Source is linked on Reporting Tracker row 47.
+- **Old accounting ACE view** — it was found but had never been linked anywhere in the workbook,
+  despite fourteen Metrics-tab rows citing it as their source. The **[Source] INHA ACE Outline**
+  (owned by Morgan) is now in the Start Here "Where things live" registry.
+
+## Metrics tab
+Column D — "Where does it live now?" — was empty for all fifteen Maintenance Bookkeeping Operations
+and Weekly Manager Checkdown rows. Karen's answers fill every one of them. That tab is now complete.
