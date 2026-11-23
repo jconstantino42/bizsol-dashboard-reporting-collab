@@ -216,3 +216,46 @@ Shelby · moving the GitHub repo into the org.
 ## Metrics tab
 Column D — "Where does it live now?" — was empty for all fifteen Maintenance Bookkeeping Operations
 and Weekly Manager Checkdown rows. Karen's answers fill every one of them. That tab is now complete.
+
+---
+
+# WORKBOOK REVIEW — 2026-11-23, after the managers filled it in
+
+## The headline: the "linked delivery dashboard" is found
+Tara named it — **`[Source] INHA BK Dashboard Data Base`**
+(`1TG1Va1DiHqbLUJTgOOjKC0H18PaW7115x09K-IevGsA`). This was the most-cited missing source on the
+Metrics tab: it fed timely delivery average, delivered by the 5th, delivered by the 10th, and QA
+average per bookkeeper. Nobody could name it for weeks. It is on the INHA **shared drive** and was
+edited 23 Nov. A second feeder came with it — **`[Source] Maintenance Cycle Timeline & Results`**
+(`1RMlqnAgf_iHxsH5b_-H2iTTylsWnrWv_lR8gp-5uOeU`), owned by Tara personally, so it joins the
+shared-drive migration list.
+
+## Also resolved
+- **Advisory vs detach** — open since day one on the Start Here tab. Karen linked
+  `AKfycbx_Ssnch...` on the advisory rows, so that is advisory and `AKfycbwotuTDy...` is detach.
+- **The capacity target is a decision, not a data gap.** Tara: *"Exists, but the bk capacity cap is
+  still in decision zone."* We had it logged as a metric lost from the old build. It is not missing —
+  nobody has set the number. Morgan's call, not a build task.
+- **Retention** now carries three Omni dashboards plus Salesforce and the artifact.
+- **Tara surfaced the old ACE sheet herself** and added *"ACE metrics need a rebuild and delivered to
+  Shelby/Sean."* She is asking for the rebuild, not resisting it.
+
+## Two things to settle before Morgan reads it
+1. **Status inflation.** Nine Bookkeeping rows moved from "Active but incomplete" to "Active and
+   good" while their Gap column still describes the missing metric. Row 2 reads "Active and good"
+   with a gap saying the by-the-5th / by-the-10th split is not there; same on capacity (row 8) and
+   the BK ACE row (row 9, still listing pro document requests, overdue tasks and OOO as not visible).
+   Either the gaps closed and the text is stale, or the status is optimistic.
+2. **Two different Vercel domains.** Tara's links use `in-house-accounting-operations.vercel.app`;
+   the Link column uses `in-house-accounting-operations-housecallpro-infosys.vercel.app`. Confirm
+   which is canonical before anything is built against either.
+
+## Access state
+**48 of 50 confirmed.** Only rows 22 and 23 remain — Tax Advisor engagement, Karen's.
+
+## Tabs updated this round
+- **Systems & Sources** — had not been touched since it was written; its "confirm this" column is now
+  answered for Salesforce, the Vercel app, the tax app, Apps Script, Omni, AI QA, MBO and Advisory
+  Gauges.
+- **Metrics tab** — the delivery-dashboard row now names the source.
+- **Start Here** — the two new feeders and the second Vercel domain added to the registry.
